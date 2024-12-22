@@ -1,1 +1,7 @@
-
+form{
+    background-color: darkviolet;
+    padding: 70px;
+    margin: auto;
+    display: table; 
+    border: 5px solid orange;
+}
